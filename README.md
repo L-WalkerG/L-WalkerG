@@ -1,6 +1,11 @@
 # 👋 Hey, I'm Louis Walker...
 
-### Founder & Developer @ LETHEA Software
+<p align="center">
+  <img src="https://img.shields.io/badge/Founder_%26_CEO-LETHEA_Software-8250DF?style=for-the-badge" alt="Founder &amp; CEO at LETHEA Software" />
+  <img src="https://img.shields.io/badge/Software_Developer-181717?style=for-the-badge&logo=github&logoColor=white" alt="Software Developer" />
+</p>
+
+<p align="center"><strong>Founder &amp; Chief Executive Officer</strong> at <strong>LETHEA Software</strong></p>
 
 Building software, games, web applications and digital products.
 
