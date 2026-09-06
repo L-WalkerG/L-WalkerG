@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Profile Graphics
 
 on:
   push:
@@ -21,13 +21,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Snake and Activity Graph
         run: python3 scripts/generate_snake.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: ${{ github.repository_owner }}
 
-      - name: Deploy Snake
+      - name: Deploy Profile Graphics
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: gh-pages

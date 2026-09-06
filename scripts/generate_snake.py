@@ -1,5 +1,6 @@
-"""Generate a continuous, in-grid contribution snake using only Python's stdlib."""
+"""Generate profile SVGs from GitHub contributions using Python's stdlib."""
 
+from datetime import date
 import json
 import os
 from pathlib import Path
@@ -59,9 +60,48 @@ def render(weeks, dark=False):
     return "".join(svg)
 
 
+def render_activity(weeks, dark=False):
+    days = sorted(
+        (day for week in weeks for day in week["contributionDays"]),
+        key=lambda day: day["date"],
+    )[-30:]
+    if not days:
+        raise ValueError("No activity data")
+    background, foreground, grid, accent = (
+        ("#0d1117", "#c9d1d9", "#30363d", "#39d353") if dark
+        else ("#ffffff", "#24292f", "#d0d7de", "#1a7f37")
+    )
+    maximum = max(4, max(day["contributionCount"] for day in days))
+    maximum = ((maximum + 3) // 4) * 4
+    points = [(56 + i * 752 / max(1, len(days) - 1),
+               218 - day["contributionCount"] * 144 / maximum) for i, day in enumerate(days)]
+    coordinates = " ".join(f"{x:.2f},{y:.2f}" for x, y in points)
+    total = sum(day["contributionCount"] for day in days)
+    svg = ['<svg xmlns="http://www.w3.org/2000/svg" width="864" height="272" viewBox="0 0 864 272" role="img">',
+           '<title>GitHub Activity</title>',
+           f'<desc>{total} contributions from {days[0]["date"]} to {days[-1]["date"]}.</desc>',
+           f'<rect width="864" height="272" rx="12" fill="{background}"/>',
+           f'<g font-family="system-ui, sans-serif" fill="{foreground}">',
+           '<text x="24" y="30" font-size="18" font-weight="600">GitHub Activity</text>',
+           f'<text x="24" y="52" font-size="12">{total} contributions · Last {len(days)} days</text>']
+    for i in range(5):
+        y = 218 - i * 36
+        svg.append(f'<path d="M56 {y}H808" stroke="{grid}"/>')
+        svg.append(f'<text x="44" y="{y + 4}" text-anchor="end" font-size="11">{maximum * i // 4}</text>')
+    svg.append(f'<polygon points="{points[0][0]},218 {coordinates} {points[-1][0]},218" fill="{accent}" opacity="0.12"/>')
+    svg.append(f'<polyline points="{coordinates}" fill="none" stroke="{accent}" stroke-width="2.5" stroke-linejoin="round"/>')
+    for (x, y), day in zip(points, days):
+        svg.append(f'<circle cx="{x:.2f}" cy="{y:.2f}" r="3" fill="{accent}"><title>{day["date"]}: {day["contributionCount"]} contributions</title></circle>')
+    for i in sorted({0, len(days) // 3, 2 * len(days) // 3, len(days) - 1}):
+        label = date.fromisoformat(days[i]["date"]).strftime("%b %d")
+        svg.append(f'<text x="{points[i][0]:.2f}" y="242" text-anchor="middle" font-size="11">{label}</text>')
+    svg.append('</g></svg>')
+    return "".join(svg)
+
+
 def main():
     query = """query($login:String!){user(login:$login){contributionsCollection{
-      contributionCalendar{weeks{contributionDays{weekday contributionLevel}}}
+      contributionCalendar{weeks{contributionDays{date weekday contributionLevel contributionCount}}}
     }}}"""
     request = urllib.request.Request(
         "https://api.github.com/graphql",
@@ -80,6 +120,7 @@ def main():
     for dark in (False, True):
         suffix = "-dark" if dark else ""
         Path(f"dist/github-contribution-grid-snake{suffix}.svg").write_text(render(weeks, dark))
+        Path(f"dist/github-activity{suffix}.svg").write_text(render_activity(weeks, dark))
 
 
 if __name__ == "__main__":
