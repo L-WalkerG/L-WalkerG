@@ -187,7 +187,7 @@ LETHEA Software
 ├── Game Development
 ├── Database Systems
 └── Product Development
-
+```
 
 # ⚡ Interactive Developer Dashboard
 
@@ -461,6 +461,5 @@ Product Development       ██████████████████
 **LETHEA Software © 2026**
 
 </p>
-
 
 
