@@ -5,12 +5,9 @@
 Building software, games, web applications and digital products.
 
 ---
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Company+Founder;Software+Engineer;Software+Developer;Full-Stack+Developer;Backend+Developer;Frontend+Developer;Web+Developer;Game+Developer;API+Developer;Database+Developer;Cloud+Developer;DevOps+Engineer;Systems+Developer;Linux+Developer;Application+Developer;Software+Architect;Product+Developer;REST+API+Developer;Real-Time+Application+Developer;Database+Architect;Cloud+Application+Developer;Game+Systems+Developer;Business+Software+Developer;POS+Systems+Developer;Mobile+Application+Developer;Open+Source+Developer;Technology+Enthusiast" alt="Professional Roles" />
 </p>
-
 ---
 
 
