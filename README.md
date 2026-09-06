@@ -180,18 +180,16 @@ Business management and POS software.
 
 # 🎯 Current Focus
 
-```text
-LETHEA Software
-│
-├── Software Development
-├── Web Development
-├── Business Applications
-├── POS Systems
-├── Scheduling Systems
-├── Game Development
-├── Database Systems
-└── Product Development
-```
+**LETHEA Software**
+
+- Software Development
+- Web Development
+- Business Applications
+- POS Systems
+- Scheduling Systems
+- Game Development
+- Database Systems
+- Product Development
 
 ---
 
@@ -205,200 +203,128 @@ LETHEA Software
 
 ## 👨‍💻 Developer Dashboard
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                    LOUIS WALKER                         ║
-║              FOUNDER & SOFTWARE ENGINEER                ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  🏢 COMPANY       : LETHEA Software                     ║
-║  👑 POSITION      : Founder & Developer                 ║
-║  💻 SPECIALTY     : Full-Stack Development              ║
-║  🌐 DOMAIN        : Software & Web Applications          ║
-║  🎮 SIDE QUEST    : Game Development                    ║
-║  🐧 ENVIRONMENT   : Linux                               ║
-║  🟢 STATUS        : Building                            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+**Louis Walker · Founder & Software Engineer**
+
+| | Details |
+| :--- | :--- |
+| 🏢 Company | LETHEA Software |
+| 👑 Position | Founder & Developer |
+| 💻 Specialty | Full-Stack Development |
+| 🌐 Domain | Software & Web Applications |
+| 🎮 Side Quest | Game Development |
+| 🐧 Environment | Linux |
+| 🟢 Status | Building |
 
 ---
 
 ## 🎮 Developer RPG Profile
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  DEVELOPER PROFILE                       ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  👤 NAME       : Louis Walker                            ║
-║  🏢 GUILD      : LETHEA Software                         ║
-║  ⚔ CLASS       : Full-Stack Developer                    ║
-║  🧬 TYPE       : Software Engineer                       ║
-║  🟢 STATUS     : Active                                  ║
-║                                                          ║
-║  ⚔ Backend        ████████████████████  95%              ║
-║  🛡 Frontend       ███████████████████░  90%              ║
-║  🧠 Architecture   ██████████████████░░  85%              ║
-║  ⚡ APIs           ████████████████████  95%              ║
-║  🗄 Databases      ████████████████████  95%              ║
-║  ☁ Cloud           ████████████████░░░░  75%              ║
-║  🐳 DevOps         ███████████████░░░░░  70%              ║
-║  🎮 Game Dev       ████████████████░░░░  75%              ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+| Profile | Details |
+| :--- | :--- |
+| 👤 Name | Louis Walker |
+| 🏢 Guild | LETHEA Software |
+| ⚔ Class | Full-Stack Developer |
+| 🧬 Type | Software Engineer |
+| 🟢 Status | Active |
+
+| Skill | Level |
+| :--- | ---: |
+| ⚔ Backend | 95% |
+| 🛡 Frontend | 90% |
+| 🧠 Architecture | 85% |
+| ⚡ APIs | 95% |
+| 🗄 Databases | 95% |
+| ☁ Cloud | 75% |
+| 🐳 DevOps | 70% |
+| 🎮 Game Dev | 75% |
 
 ---
 
 ## 🧠 Skill Matrix
 
-```text
-Backend Development       ████████████████████
-Frontend Development      ███████████████████░
-Full-Stack Development    ████████████████████
-Web Development           ███████████████████░
-Software Engineering      ████████████████████
-Game Development          ████████████████░░░░
-API Development           ████████████████████
-Database Development      ████████████████████
-Cloud Development         ████████████████░░░░
-DevOps                    ███████████████░░░░░
-Linux Development         ████████████████████
-System Development        ██████████████████░░
-Software Architecture     ██████████████████░░
-Product Development       ███████████████████░
-```
+| Skill | Level |
+| :--- | :--- |
+| Backend Development | `████████████████████` |
+| Frontend Development | `███████████████████░` |
+| Full-Stack Development | `████████████████████` |
+| Web Development | `███████████████████░` |
+| Software Engineering | `████████████████████` |
+| Game Development | `████████████████░░░░` |
+| API Development | `████████████████████` |
+| Database Development | `████████████████████` |
+| Cloud Development | `████████████████░░░░` |
+| DevOps | `███████████████░░░░░` |
+| Linux Development | `████████████████████` |
+| System Development | `██████████████████░░` |
+| Software Architecture | `██████████████████░░` |
+| Product Development | `███████████████████░` |
 
 ---
 
 ## 🏢 LETHEA Software
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                    LETHEA SOFTWARE                       ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  🚀 SOFTWARE DEVELOPMENT                                 ║
-║  🌐 WEB APPLICATIONS                                     ║
-║  🏪 BUSINESS SYSTEMS                                     ║
-║  📊 DATABASE SYSTEMS                                     ║
-║  ⏱ SCHEDULING SYSTEMS                                   ║
-║  🎮 GAME DEVELOPMENT                                     ║
-║  🛠 DIGITAL PRODUCTS                                     ║
-║                                                          ║
-╠══════════════════════════════════════════════════════════╣
-║                      PRODUCTS                            ║
-║                                                          ║
-║  ⏱️ TimeWalker                                           ║
-║     Time Management & Tracking                           ║
-║                                                          ║
-║  👥 TeamWalker                                           ║
-║     Employee Scheduling & Team Management                ║
-║                                                          ║
-║  🏪 W-Store                                              ║
-║     Business Management & POS                            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+- 🚀 Software Development
+- 🌐 Web Applications
+- 🏪 Business Systems
+- 📊 Database Systems
+- ⏱ Scheduling Systems
+- 🎮 Game Development
+- 🛠 Digital Products
+
+### Products
+
+| Product | Purpose |
+| :--- | :--- |
+| ⏱️ TimeWalker | Time Management & Tracking |
+| 👥 TeamWalker | Employee Scheduling & Team Management |
+| 🏪 W-Store | Business Management & POS |
 
 ---
 
 ## 🚀 Currently Building
 
-```text
-╭──────────────────────────────────────────────────────────╮
-│                    🟢 CURRENTLY BUILDING                 │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  ⏱️  TimeWalker                                          │
-│      Time management & tracking software                │
-│                                                          │
-│  👥  TeamWalker                                          │
-│      Employee scheduling & team management               │
-│                                                          │
-│  🏪  W-Store                                             │
-│      Business management & POS software                  │
-│                                                          │
-│  🎮  Game Projects                                       │
-│      Gameplay systems & game development                 │
-│                                                          │
-│  ⚙️  Software Projects                                   │
-│      New digital products & applications                 │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
+| Project | Focus |
+| :--- | :--- |
+| ⏱️ TimeWalker | Time management & tracking software |
+| 👥 TeamWalker | Employee scheduling & team management |
+| 🏪 W-Store | Business management & POS software |
+| 🎮 Game Projects | Gameplay systems & game development |
+| ⚙️ Software Projects | New digital products & applications |
 
 ---
 
 ## ⚙️ Development Environment
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                 DEVELOPMENT ENVIRONMENT                   ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  🐧 OS              → Linux                              ║
-║                                                          ║
-║  💻 Languages       → JavaScript                         ║
-║                       TypeScript                         ║
-║                       Python                             ║
-║                       C#                                 ║
-║                       C++                                ║
-║                       Java                               ║
-║                       Kotlin                             ║
-║                       PHP                                ║
-║                       SQL                                ║
-║                                                          ║
-║  🌐 Frontend        → React / Next.js / Vite             ║
-║                       HTML / CSS / Tailwind / Bootstrap  ║
-║                                                          ║
-║  ⚙️ Backend         → Node.js / Express                  ║
-║                       FastAPI / Django / .NET            ║
-║                                                          ║
-║  🗄️ Databases       → PostgreSQL / MySQL                 ║
-║                       MariaDB / SQLite / MongoDB         ║
-║                       Redis / Firebase / Supabase        ║
-║                                                          ║
-║  ☁️ Cloud           → AWS / Google Cloud / Azure         ║
-║                       Cloudflare / Supabase              ║
-║                                                          ║
-║  🐳 DevOps          → Docker / Kubernetes                 ║
-║                       GitHub Actions / Nginx             ║
-║                                                          ║
-║  🎮 Game Engines    → Godot / Unity / Unreal Engine      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+| Area | Tools & Technologies |
+| :--- | :--- |
+| 🐧 OS | Linux |
+| 💻 Languages | JavaScript, TypeScript, Python, C#, C++, Java, Kotlin, PHP, SQL |
+| 🌐 Frontend | React, Next.js, Vite, HTML, CSS, Tailwind, Bootstrap |
+| ⚙️ Backend | Node.js, Express, FastAPI, Django, .NET |
+| 🗄️ Databases | PostgreSQL, MySQL, MariaDB, SQLite, MongoDB, Redis, Firebase, Supabase |
+| ☁️ Cloud | AWS, Google Cloud, Azure, Cloudflare, Supabase |
+| 🐳 DevOps | Docker, Kubernetes, GitHub Actions, Nginx |
+| 🎮 Game Engines | Godot, Unity, Unreal Engine |
 
 ---
 
 ## 💻 Terminal
 
 ```text
-╭──────────────────────────────────────────────────────────╮
-│ louis@lethea:~$ whoami                                  │
-│                                                          │
-│ Louis Walker                                              │
-│                                                          │
-│ louis@lethea:~$ company                                 │
-│                                                          │
-│ LETHEA Software                                           │
-│                                                          │
-│ louis@lethea:~$ role                                    │
-│                                                          │
-│ Founder & Software Engineer                              │
-│                                                          │
-│ louis@lethea:~$ focus                                   │
-│                                                          │
-│ Software • Web • Games • Digital Products               │
-│                                                          │
-│ louis@lethea:~$ status                                  │
-│                                                          │
-│ 🟢 Building the next thing...                            │
-│                                                          │
-│ louis@lethea:~$ █                                       │
-╰──────────────────────────────────────────────────────────╯
+louis@lethea:~$ whoami
+Louis Walker
+
+louis@lethea:~$ company
+LETHEA Software
+
+louis@lethea:~$ role
+Founder & Software Engineer
+
+louis@lethea:~$ focus
+Software • Web • Games • Digital Products
+
+louis@lethea:~$ status
+🟢 Building the next thing...
 ```
 
 ---
