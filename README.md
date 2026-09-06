@@ -187,3 +187,119 @@ LETHEA Software
 ├── Game Development
 ├── Database Systems
 └── Product Development
+
+
+# ⚡ Interactive Developer Dashboard
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=900&lines=Company+Founder;Software+Engineer;Full-Stack+Developer;Backend+Developer;Frontend+Developer;Web+Developer;Game+Developer;API+Developer;Database+Developer;Cloud+Developer;DevOps+Engineer;Linux+Developer;Systems+Developer;Software+Architect;Product+Developer" alt="Typing Roles" />
+</p>
+
+---
+
+### 🖥️ Developer Status
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                    LOUIS WALKER                     ║
+╠══════════════════════════════════════════════════════╣
+║ 🏢 Company      : LETHEA Software                   ║
+║ 👑 Position     : Founder & Developer               ║
+║ 🟢 Status       : Building                          ║
+║ 🐧 Environment  : Linux                             ║
+║ 💻 Focus        : Software & Digital Products       ║
+║ 🎮 Side Quest   : Game Development                  ║
+╚══════════════════════════════════════════════════════╝
+```
+
+### 🧠 Development Skills
+
+```text
+Backend          ████████████████████
+Frontend         ███████████████████░
+Full-Stack       ████████████████████
+Web Development  ███████████████████░
+Game Development ████████████████░░░░
+APIs             ████████████████████
+Databases        ████████████████████
+Cloud            ████████████████░░░░
+DevOps           ███████████████░░░░░
+Linux            ████████████████████
+Architecture     ██████████████████░░
+Product Dev      ███████████████████░
+```
+
+### 🚀 Currently Building
+
+```text
+┌──────────────────────────────────────────┐
+│ 🟢 ACTIVE PROJECTS                       │
+├──────────────────────────────────────────┤
+│                                          │
+│ ⏱️  TimeWalker                           │
+│     Time management & tracking           │
+│                                          │
+│ 👥  TeamWalker                           │
+│     Team & employee management           │
+│                                          │
+│ 🏪  W-Store                              │
+│     Business management & POS            │
+│                                          │
+│ 🎮  Game Projects                        │
+│     Gameplay & game systems              │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+### ⚙️ Development Environment
+
+```text
+OS              → Linux
+Languages       → JavaScript / TypeScript / Python / C# / C++ / Java / Kotlin / PHP
+Frontend        → React / Next.js / Vite / HTML / CSS
+Backend         → Node.js / Express / FastAPI / Django / .NET
+Databases       → PostgreSQL / MySQL / MariaDB / SQLite / MongoDB / Redis
+Cloud           → AWS / Google Cloud / Azure / Cloudflare / Supabase
+DevOps          → Docker / Kubernetes / GitHub Actions / Nginx
+Game Engines    → Godot / Unity / Unreal Engine
+Tools           → Git / GitHub / VS Code / Visual Studio / JetBrains / Postman / Figma
+```
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" height="170"/>
+</p>
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+### 💻 Terminal
+
+```text
+$ whoami
+Louis Walker
+
+$ company
+LETHEA Software
+
+$ role
+Founder & Software Engineer
+
+$ focus
+Software • Web • Games • Digital Products
+
+$ status
+🟢 Building the next thing...
+```
+
+### 👁️ Profile
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
