@@ -424,7 +424,10 @@ Product Development       ██████████████████
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/L-WalkerG/L-WalkerG/gh-pages/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L-WalkerG/L-WalkerG/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/L-WalkerG/L-WalkerG/gh-pages/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  </picture>
 </p>
 
 ---
