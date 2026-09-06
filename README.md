@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Həmid
+# 👋 Hey, I'm Louis Walker...
 
 ### Founder & Developer @ LETHEA Software
 
