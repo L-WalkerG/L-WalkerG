@@ -424,7 +424,7 @@ Product Development       ██████████████████
 ## 🐍 Contribution Snake
 
 <p align="center">
-  https://raw.githubusercontent.com/L-WalkerG/L-WalkerG/gh-pages/github-contribution-grid-snake.svg
+  <https://raw.githubusercontent.com/L-WalkerG/L-WalkerG/gh-pages/github-contribution-grid-snake.svg>
 </p>
 
 ---
